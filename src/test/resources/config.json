@@ -1,14 +1,14 @@
 {
   "server": "hub-cloud.browserstack.com",
-  "username": "raveendratudangi3",
-  "access_key": "rx3sEzzUXqbtktM8i8fC",
+  "username": "BROWSERSTACK_USERNAME",
+  "access_key": "BROWSERSTACK_ACCESS_KEY",
 
   "capabilities": {
     "project": "Cucumber TestNG Android Project",
     "build": "Cucumber TestNG Build",
     "name": "Cucumber TestNG Test",
     "browserstack.debug": "true",
-    "app": "bs://f48e4e87bbbd4b3bf5252947327a6ccab048271e"
+    "app": "bs://"
   },
 
   "environments": [
