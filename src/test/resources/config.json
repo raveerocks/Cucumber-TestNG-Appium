@@ -1,0 +1,20 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "username": "raveendratudangi3",
+  "access_key": "rx3sEzzUXqbtktM8i8fC",
+
+  "capabilities": {
+    "project": "Cucumber TestNG Android Project",
+    "build": "Cucumber TestNG Build",
+    "name": "Cucumber TestNG Test",
+    "browserstack.debug": "true",
+    "app": "bs://f48e4e87bbbd4b3bf5252947327a6ccab048271e"
+  },
+
+  "environments": [
+    {
+      "device": "Google Pixel 3",
+      "os_version": "9.0"
+    }
+  ]
+}
